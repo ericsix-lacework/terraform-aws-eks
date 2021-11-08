@@ -1,5 +1,7 @@
 # AWS EKS Terraform module
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/5437e225-24e2-4b75-badb-ff8df20086e3.svg)](https://app.soluble.cloud/repos/details/github.com/ericsix-lacework/terraform-aws-eks)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/8fa5bdf5-bfb1-4372-83c1-5e28330f7c99.svg)](https://app.soluble.cloud/repos/details/github.com/ericsix-lacework/terraform-aws-eks)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/c3e007dd-fd5b-4bd6-ae29-8288305d727e.svg)](https://app.soluble.cloud/repos/details/github.com/ericsix-lacework/terraform-aws-eks)  
+
 [![Lint Status](https://github.com/terraform-aws-modules/terraform-aws-eks/workflows/Lint/badge.svg)](https://github.com/terraform-aws-modules/terraform-aws-eks/actions)
 [![LICENSE](https://img.shields.io/github/license/terraform-aws-modules/terraform-aws-eks)](https://github.com/terraform-aws-modules/terraform-aws-eks/blob/master/LICENSE)
 
